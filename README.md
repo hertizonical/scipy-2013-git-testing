@@ -1,3 +1,4 @@
+testing
 Git and Testing at SciPy 2013
 =============================
 
