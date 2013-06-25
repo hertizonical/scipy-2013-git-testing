@@ -72,9 +72,7 @@ def mean(nums):
 
     """
     # fill this in
-    oursum=sum(nums)
-    count=len(nums)
-    return oursum/count
+    return sum(nums)/len(nums)
 
 
 def filter_animals_by_kind(kind, date, time, species, count):
